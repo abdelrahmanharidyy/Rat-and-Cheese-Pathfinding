@@ -12,3 +12,6 @@ This project is a graphical simulation of a rat finding a path to cheese in a 2D
 2. Run the following command in the terminal:
    ```bash
    python main.py
+
+## Screenshot for project
+![image](https://github.com/user-attachments/assets/b50d828c-9937-4d2b-903e-e3f4981dc358)

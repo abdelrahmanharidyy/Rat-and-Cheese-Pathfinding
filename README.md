@@ -20,4 +20,4 @@ This project is a graphical simulation of a rat finding a path to cheese in a 2D
 
 Check out the demo video below:
 
-![Demo Video](C:\Users\A.Haridy\Downloads\Demo - Made with Clipchamp.mp4)
+![Demo Video](C:/Users/A.Haridy/Downloads/Demo - Made with Clipchamp.mp4)
